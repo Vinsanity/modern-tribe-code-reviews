@@ -1,6 +1,8 @@
 # modern-tribe-code-reviews
 Some notes for code reviews of Modern Tribe
 
+:green_circle: - Approved - Code is approved and can be merged.
+
 :red_circle: - Must Fix - Security/Quality/Performance/Standards issue.
 
 :orange_circle: - Should Fix - If you have time in the ticket left, you really should do these.
